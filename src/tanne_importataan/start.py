@@ -1,2 +1,5 @@
 from taalta_importataan.service import objekti
-print('testi')
+
+def toimii():
+    print(objekti.testaa())
+    print('testi')
